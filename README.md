@@ -48,37 +48,9 @@
 
 # 🚀 Featured Projects
 
-## 🚛 Sentinel AI
-Real-time truck queue management system processing concurrent camera streams with automated bay allocation.
-
-**Tech Stack**
-`Python` `YOLO11` `PaddleOCR` `FastAPI` `PostgreSQL` `Docker`
-
----
-
 ## 🌾 FieldMind
 AI-powered agricultural decision-support platform integrating data ingestion, retrieval, and validation for crop recommendations.
 
-**Tech Stack**
-`Python` `FastAPI` `PostgreSQL` `RAG` `Gemini API` `Groq`
-
----
-
-## 🌿 Canopy
-Plant disease detection platform optimized for real-time computer vision inference, generating multilingual diagnosis reports.
-
-**Tech Stack**
-`YOLO` `ONNX Runtime` `FastAPI` `Gemini API`
-
----
-
-## 🦺 PPE Kit Detection
-Object detection model trained to identify Personal Protective Equipment kits, focusing on metric stability and runtime performance.
-
-**Tech Stack**
-`Python` `YOLO` `Google Colab`
-
----
 
 # 💻 Tech Stack
 
