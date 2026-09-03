@@ -1,36 +1,140 @@
-# Hi there, I'm Swaroop! 👋
+<div align="center">
 
-I am a Computer Science undergraduate (B.Tech 2023–2027) based in Pune, India, with a strong focus on **Machine Learning, Computer Vision, and Backend Development**. I build real-time AI solutions, scalable data pipelines, and intelligent operational tools.
+# Hi 👋, I'm Swaroop Biradar
+### 🚀 AI/ML Enthusiast | Computer Vision | Backend Developer
 
-## 🚀 About Me
-* 🔭 I’m currently working on building and optimizing event-driven computer vision pipelines and LLM-based decision-support systems.
-* 🌱 I’m constantly exploring advanced model training concepts, including epoch loss trends, mean average precision (mAP) metrics, and face recognition frameworks.
-* ⚙️ I enjoy developing robust backend architectures using FastAPI, Docker, and PostgreSQL to serve heavy AI models seamlessly.
-* ⚡ Fun fact: I have a keen interest in geospatial analysis and satellite navigation technology (GPS/GNSS mechanics).
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Machine+Learning+Enthusiast;Computer+Vision+Engineer;AI+%26+GenAI+Learner;Backend+Developer"/>
 
-## 🛠️ Tech Stack
-* **Programming & Data:** Python, SQL, Pandas, NumPy
-* **AI & Computer Vision:** OpenCV, YOLO, Object Detection, PyTorch, Scikit-learn, Hugging Face, RAG, Gemini API
-* **Backend & DevOps:** FastAPI, PostgreSQL, MongoDB (Mongoose), REST APIs, Git, Docker
-* **Analytics & BI:** Power BI, Data Ingestion, Geospatial Analysis
+<p>
+<a href="https://github.com/swaroop-biradar12">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://www.linkedin.com/in/swaroop-biradar/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:swaroop.biradar05@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
-## 💻 Featured Projects
+<img src="https://komarev.com/ghpvc/?username=swaroop-biradar12&label=Profile%20Views&color=0e75b6&style=flat"/>
 
-### [Sentinel AI](https://github.com/swaroop-biradar12/AI-Survillence)
-A real-time truck queue management system processing concurrent camera streams using **YOLO11** and **PaddleOCR**. It features a PostgreSQL-backed event-driven pipeline for automated bay allocation and stream recovery.
-
-### [FieldMind](https://github.com/swaroop-biradar12/CropAI)
-An AI-powered agricultural decision-support platform integrating data ingestion, preprocessing, retrieval, and validation. Built with **FastAPI**, **RAG**, and **Gemini/Groq** to transform heterogeneous data into structured crop recommendations.
-
-### [Canopy](https://github.com/swaroop-biradar12/Plant-Disease-Detection)
-A plant disease detection platform leveraging a custom-trained **YOLO** model. Optimized for real-time inference using **ONNX Runtime** and deployed via **FastAPI**, generating multilingual diagnosis reports.
-
-### PPE Kit Detection
-Trained and evaluated an object detection model using **YOLO** to identify Personal Protective Equipment kits, focusing on metric stability and runtime optimization.
-
-## 📫 Let's Connect!
-* **LinkedIn:** [linkedin.com/in/swaroop-biradar](https://www.linkedin.com/in/swaroop-biradar/)
-* **Email:** [swaroop.biradar05@gmail.com](mailto:swaroop.biradar05@gmail.com)
+</div>
 
 ---
-⭐️ *Feel free to explore my repositories and reach out for collaborations!*
+
+# 💫 About Me
+
+🎓 **B.Tech Computer Science & Engineering** Student at **Pimpri Chinchwad University (PCU)**
+
+💻 Passionate about building real-time AI solutions, optimizing computer vision models, and engineering robust event-driven backends.
+
+🌱 Currently Learning
+- Advanced LLM workflows & RAG architectures
+- Epoch loss trends & mAP metrics optimization
+- Geospatial analysis
+- Dual-frequency GPS/GNSS operational mechanics
+
+🎯 Interested In
+- Machine Learning & Data Science
+- Computer Vision (YOLO, Object Detection)
+- GenAI & Prompt Engineering
+- Scalable Backend Processing
+
+⚡ Fun Fact
+> I enjoy experimenting with AI video generation platforms, tuning prompts for dynamic camera movements and hyper-specific weather effects!
+
+---
+
+# 🚀 Featured Projects
+
+## 🚛 Sentinel AI
+Real-time truck queue management system processing concurrent camera streams with automated bay allocation.
+
+**Tech Stack**
+`Python` `YOLO11` `PaddleOCR` `FastAPI` `PostgreSQL` `Docker`
+
+---
+
+## 🌾 FieldMind
+AI-powered agricultural decision-support platform integrating data ingestion, retrieval, and validation for crop recommendations.
+
+**Tech Stack**
+`Python` `FastAPI` `PostgreSQL` `RAG` `Gemini API` `Groq`
+
+---
+
+## 🌿 Canopy
+Plant disease detection platform optimized for real-time computer vision inference, generating multilingual diagnosis reports.
+
+**Tech Stack**
+`YOLO` `ONNX Runtime` `FastAPI` `Gemini API`
+
+---
+
+## 🦺 PPE Kit Detection
+Object detection model trained to identify Personal Protective Equipment kits, focusing on metric stability and runtime performance.
+
+**Tech Stack**
+`Python` `YOLO` `Google Colab`
+
+---
+
+# 💻 Tech Stack
+
+### Languages & Data
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres"/>
+</p>
+
+### AI, ML & Backend
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,fastapi,nodejs,mongodb"/>
+</p>
+
+### Cloud, DevOps & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,linux"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=swaroop-biradar12&theme=github-dark&hide_border=true&area=true"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=swaroop-biradar12&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+<a href="mailto:swaroop.biradar05@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+<a href="https://github.com/swaroop-biradar12">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+<a href="https://www.linkedin.com/in/swaroop-biradar/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Train. Deploy. Repeat."*
+
+</div>
